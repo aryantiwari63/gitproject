@@ -2,7 +2,10 @@ import React from 'react'
 
 function a() {
   return (
-    <div>a</div>
+    <div>a
+      <p>pullllllllllllllll</p>
+      <p>a component</p>
+    </div>
   )
 }
 
